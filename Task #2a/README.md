@@ -13,7 +13,7 @@ All data is stored using **doubly linked lists**.
 ---
 
 ## Folder Structure
-1/
+Task #2a/
 ├── Makefile
 ├── README.md
 ├── Git.docx
