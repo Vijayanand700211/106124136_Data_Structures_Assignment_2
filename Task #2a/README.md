@@ -20,13 +20,20 @@ All data is stored using **doubly linked lists**.
 
 ## ⚙️ Compilation and Execution
 
-### Step 1: Go inside folder `1/`
+### Step 1: Go inside folder `106124136/`
 ```bash
 cd 106124136
+```
 ### Step 2: Compile using Makefile
+```bash
 make
+```
 ### Step 3: Run the executable
+```bash
 ./run
+```
 ### Clean compiled files
+```bash
 make clean
+```
 
