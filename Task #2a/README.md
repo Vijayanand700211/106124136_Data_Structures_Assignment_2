@@ -13,7 +13,20 @@ All data is stored using **doubly linked lists**.
 ---
 
 ## Folder Structure
-
+1/
+├── Makefile
+├── README.md
+├── report.docx
+└── code/
+├── main.c
+├── platform.c
+├── post.c
+├── comment.c
+├── reply.c
+├── platform.h
+├── post.h
+├── comment.h
+└── reply.h
 
 
 ---
