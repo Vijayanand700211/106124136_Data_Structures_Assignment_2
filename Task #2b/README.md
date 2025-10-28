@@ -7,7 +7,7 @@ Subtask 2 code is in `subtask2.c`
 In Subtask 1, the family tree is constructed from the given level order traversal.  
 Then, the minimum number of phones `m` required is found such that every member can communicate with at least one phone either directly or through parent/child connection.
 
-In Subtask 2, continuing from Subtask 1, the first `m` prime numbers are generated using the Sieve of Eratosthenes.  
+In Subtask 2, continuing from Subtask 1, the prime numbers less than 5000000 are generated using the Sieve of Eratosthenes.  
 For every pair of phones, the XOR of their prime values is calculated, and the number of pairs lying outside the range `[l, r]` is counted.
 
 ## To Compile and Run
@@ -24,3 +24,4 @@ gcc subtask2.c -o sub2
 ./sub2
 
 ```
+
