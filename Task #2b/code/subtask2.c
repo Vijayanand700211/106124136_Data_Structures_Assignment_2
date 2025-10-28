@@ -111,7 +111,7 @@ int main(){
     scanf("%d%d",&l,&r);
     node*root=maketree(a,n);
     int m=solve(root);
-    printf("%d\n",m);
+    printf("%d ",m);
     int*p=(int*)malloc(sizeof(int)*m);
     sieve(p,m);
     int x=0;
