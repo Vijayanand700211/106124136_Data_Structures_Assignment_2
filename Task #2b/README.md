@@ -1,9 +1,9 @@
-# Astroworld Communication Problem
+# Task-2b Astroworld Communication Problem
 
 Subtask 1 code is in `subtask1.c`  
 Subtask 2 code is in `subtask2.c`
 
-## Description
+## Description 
 In Subtask 1, the family tree is constructed from the given level order traversal.  
 Then, the minimum number of phones `m` required is found such that every member can communicate with at least one phone either directly or through parent/child connection.
 
@@ -22,4 +22,5 @@ gcc subtask1.c -o sub1
 ```bash
 gcc subtask2.c -o sub2
 ./sub2
+
 ```
